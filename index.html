@@ -33,12 +33,13 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>
+				<section id="start">
 					<h1>Photography</h1>
-					<h2>the technical aspect</h2>
+					<h2>The technical aspect</h2>
 					<a href="https://twitter.com/fredszaq">@fredszaq</a> - 25/04/2019
 				</section>
-				<section>
+				<section id="schedule">
+					<h3>Schedule</h3>
 					<ul>
 						<li class="fragment">What's a camera?</li>
 						<li class="fragment">Camera settings</li>
@@ -46,27 +47,27 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 					</ul>
 				</section>
 
-				<section>
+				<section id="what-is-a-camera">
 					<h2>What's a camera?</h2>
 				</section>
-				<section>
+				<section id="camera-obscura">
 					<h3>Camera osbcura</h3>
 					<img src="img/camera_obscura.jpg">
-					500 B.C.
+					<p>~ 500 B.C.</p>
 				</section>
 
-				<section>
+				<section id="nicephore-niepce">
 					<h3>Nicéphore Niépce</h3>
 
 					<img src="img/nicephore_niepce.jpg" style="height:400px; float:left; margin-right:30px"/>
 
 					<ul> <li class="fragment">Paper coated with silver chloride</li>
-						<li class="fragment">First photograph circa 1824</li>
+						<li class="fragment">First photograph ~ 1824</li>
 						<li class="fragment">"Point de vue du Gras", 1827 <br /> <img src="img/oldest_preserved_photograph.png" style="margin-left:50px; height:240px; display:inline" />
 					</ul>
 
 				</section>
-				<section data-transition="slide-in none-out"><h3>A modern camera</h3><img src="img/camera_null.svg" /></section>
+				<section data-transition="slide-in none-out" id="camera-reflex"><h3>A modern camera</h3><img src="img/camera_null.svg" /></section>
 				<section data-transition="none"><h3>A modern camera</h3><img src="img/camera_diaphragm.svg" /></section>
 				<section data-transition="none"><h3>A modern camera</h3><img src="img/camera_sensor.svg" /></section>
 				<section data-transition="none"><h3>A modern camera</h3><img src="img/camera_optic.svg" /></section>
@@ -74,20 +75,30 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 				<section data-transition="none"><h3>A modern camera</h3><img src="img/camera_shutter.svg" /></section>
 				<section data-transition="none"><h3>A modern camera</h3><img src="img/camera_mirrors.svg" /></section>
 				<section data-transition="none"><h3>A modern camera</h3><img src="img/camera_ready_legend.svg" /></section>
-				<section data-transition="none"><h3>Taking a picture</h3><img src="img/camera_ready.svg" /></section>
-				<section data-transition="none"><h3>Taking a picture</h3><img src="img/camera_mirror_up.svg" /></section>
+				<section data-transition="none" id="camera-reflex-legend"><h3>Taking a picture</h3><img src="img/camera_ready.svg" /></section>
+				<section data-transition="none" id="picture"><h3>Taking a picture</h3><img src="img/camera_mirror_up.svg" /></section>
 				<section data-transition="none"><h3>Taking a picture</h3><img src="img/camera_shutter1_down.svg" /></section>
 				<section data-transition="none"><h3>Taking a picture</h3><img src="img/camera_shutter2_down.svg" /></section>
 				<section data-transition="none"><h3>Taking a picture</h3><img src="img/camera_shutter2_down_mirror_down.svg" /></section>
 				<section data-transition="none-in slide-out"><h3>Taking a picture</h3><img src="img/camera_ready.svg" /></section>
 
-				<section>
+				<section id="settings">
 					<h2>Camera settings</h2>
 				</section>
 
 				<section id="focal">
 					<h3>Focal length</h3>
-					<img src="img/focal_length.svg" class="no-border" />
+					<ul>
+						<li class="fragment">ƒ</li>
+						<li class="fragment">Length to converge parallel light beams</li>
+						<li class="fragment">mm</li>
+						<li class="fragment">8mm ⟶ 2000mm</li>
+					</ul>
+				</section>
+
+				<section id="focal-length">
+					<h3>Focal length</h3>
+					<img src="img/focal_length.svg" style="height:500px;" class="no-border" />
 				</section>
 
 				<section id="focus">
@@ -99,7 +110,6 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 					<h3>Amount of light</h3>
 					<img src="img/amount_of_light.svg" class="no-border" />
 				</section>
-
 
 				<section id="aperture">
 					<h3>Aperture</h3>
@@ -119,11 +129,11 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 					<h3>Aperture</h3>
 					<img src="img/dof.svg" class="no-border" />
 				</section>
-				<section id="falloff">
+				<section id="falloff" data-transition="slide-in none-out">
 					<h3>Aperture</h3>
 					<img src="img/falloff.svg" class="no-border" />
 				</section>
-				<section id="sharpness">
+				<section id="sharpness" data-transition="none-in slide-out">
 					<h3>Aperture</h3>
 
 					<img src="img/sharpness.svg" class="no-border" />
@@ -142,13 +152,13 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 
 				</section>
 
-				<section id="iso">
+				<section id="iso" data-transition="slide-in none-out">
 					<h3>Sensitivity</h3>
 
 					<img src="img/iso_full.svg"  class="no-border" />
 
 				</section>
-				<section id="noise">
+				<section id="noise" data-transition="none-in slide-out">
 					<h3>Sensibility</h3>
 
 					<img src="img/iso_detail.svg"  class="no-border"/>
@@ -175,7 +185,7 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 
 				<section id="steps">
 					<h3>Steps</h3>
-					<img src="img/triangle.svg" class="no-border" />
+					<img src="img/triangle.svg"  style="height:500px" class="no-border" />
 
 				</section>
 
@@ -211,7 +221,7 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 					
 				</section>
 
-				<section>
+				<section id="troubleshooting">
 					<h2>Troubleshooting</h2>
 				</section>
 			</div>
@@ -228,7 +238,10 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true }
+					{ src: 'plugin/highlight/highlight.js', async: true },
+					{ src: 'plugin/search/search.js', async: true },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+
 				]
 			});
 		</script>
