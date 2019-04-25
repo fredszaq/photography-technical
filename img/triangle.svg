@@ -26,17 +26,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="550.24259"
-     inkscape:cy="344.00313"
+     inkscape:cx="227.49885"
+     inkscape:cy="341.47775"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="3840"
-     inkscape:window-height="2032"
+     inkscape:window-height="2082"
      inkscape:window-x="0"
-     inkscape:window-y="54"
+     inkscape:window-y="41"
      inkscape:window-maximized="1"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,32 +66,32 @@
      id="layer1"
      transform="translate(132.3282,210.35584)">
     <path
-       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -11.972048,-173.20412 -44.991256,100.4022 94.1991,6.369146 z"
        id="path1010"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
        d="m -14.243742,-193.53311 0.02297,97.132318 1.144198,0.986144 1.127496,-0.986144 -0.02297,-6.377658 h 5.078243 v -2.2717 h -5.078243 v -6.53138 h 5.078243 v -2.27221 h -5.078243 v -6.53139 h 5.078243 v -2.27169 h -5.078243 v -6.53138 h 5.078243 v -2.2717 h -5.078243 v -6.53139 h 5.078243 v -2.27169 h -5.078243 v -6.53139 h 5.078243 v -2.27169 h -5.078243 v -6.5319 h 5.078243 v -2.2717 h -5.078243 v -6.53138 h 5.078243 v -2.2717 h -5.078243 v -6.53138 h 5.078243 v -2.2717 h -5.078243 v -6.53138 h 5.078243 v -2.2717 h -5.078243 v -9.25421 l -1.135848,-1.5875 z"
        id="rect855"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
        d="m 71.224442,-49.432544 -83.985317,-48.374312 -1.458313,0.45719 0.322466,1.51015 5.3894794,2.996982 -2.5391214,4.39789 1.9673494,1.13585 2.539122,-4.39789 5.65634102,3.26569 -2.53912202,4.39789 1.967791,1.13611 2.539122,-4.39789 5.656351,3.26569 -2.539121,4.39789 1.967341,1.13585 2.539122,-4.39789 5.6563406,3.26569 -2.539122,4.39789 1.96735,1.13585 2.539122,-4.39789 5.656349,3.26569 -2.539121,4.39789 1.967341,1.13585 2.539122,-4.39789 5.656349,3.26569 -2.539121,4.39789 1.967341,1.13585 2.539122,-4.39789 5.656791,3.26595 -2.539122,4.39789 1.96735,1.13585 2.539122,-4.39789 5.656341,3.26569 -2.539122,4.39789 1.96735,1.13585 2.539122,-4.39789 5.656341,3.26569 -2.539122,4.39789 1.96735,1.13585 2.539122,-4.39789 5.656341,3.26569 -2.539122,4.39789 1.96735,1.13585 2.539121,-4.39789 8.014381,4.6271 1.942743,-0.18992 z"
        id="rect855-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
        d="m -96.304396,-47.46521 84.031257,-48.374305 0.314116,-1.493447 -1.449959,-0.473895 -5.435421,2.996976 -2.53912,-4.397888 -1.96735,1.13585 2.539124,4.397889 -5.656341,3.26569 -2.539124,-4.397889 -1.967796,1.136102 2.539123,4.397889 -5.656345,3.265699 -2.539124,-4.397888 -1.967345,1.135842 2.539123,4.397889 -5.65634,3.265689 -2.539124,-4.397889 -1.967351,1.135852 2.539124,4.397888 -5.656344,3.265696 -2.539124,-4.397886 -1.967347,1.135842 2.539124,4.397889 -5.656344,3.265695 -2.539125,-4.397887 -1.967345,1.135842 2.539123,4.397889 -5.65679,3.265952 -2.539124,-4.397893 -1.967351,1.135852 2.539124,4.397889 -5.656342,3.265691 -2.539121,-4.397892 -1.967352,1.135852 2.539124,4.397889 -5.656342,3.26569 -2.539125,-4.397889 -1.967347,1.13585 2.539124,4.39789 -5.656342,3.26569 -2.539125,-4.39789 -1.967348,1.13585 2.539122,4.397889 -8.014376,4.627106 -0.806894,1.777425 z"
        id="rect855-6-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-3.3408625"
        y="-180.20973"
        id="text968"><tspan
@@ -99,10 +99,10 @@
          id="tspan966"
          x="-3.3408625"
          y="-180.20973"
-         style="stroke-width:0.26458332">ƒ/1.4</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;">ƒ/1.4</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-3.3408625"
        y="-100.83069"
        id="text972"><tspan
@@ -110,10 +110,10 @@
          id="tspan970"
          x="-3.3408625"
          y="-100.83069"
-         style="stroke-width:0.26458332">ƒ/32</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;">ƒ/32</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-139.13414"
        y="-25.534004"
        id="text976"
@@ -121,11 +121,11 @@
          sodipodi:role="line"
          x="-139.13414"
          y="-25.534004"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;fill:#ffffff;"
          id="tspan978">ISO100</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-153.74104"
        y="54.109821"
        id="text984"
@@ -134,10 +134,10 @@
          id="tspan982"
          x="-153.74104"
          y="54.109821"
-         style="stroke-width:0.26458332">ISO25600</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;">ISO25600</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="56.198727"
        y="30.02384"
        id="text988"
@@ -146,10 +146,10 @@
          id="tspan986"
          x="56.198727"
          y="30.02384"
-         style="stroke-width:0.26458332">1s</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;">1s</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="26.703623"
        y="-49.334309"
        id="text992"
@@ -158,21 +158,21 @@
          id="tspan990"
          x="26.703623"
          y="-49.334309"
-         style="stroke-width:0.26458332">1/4000s</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;">1/4000s</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-128.28938"
        y="-41.764133"
        id="text996"><tspan
          sodipodi:role="line"
          x="-128.28938"
          y="-41.764133"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;fill:#ffffff;"
          id="tspan998">noise</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="74.033661"
        y="-41.496853"
        id="text1004"><tspan
@@ -180,10 +180,10 @@
          id="tspan1002"
          x="74.033661"
          y="-41.496853"
-         style="stroke-width:0.26458332">motion blur</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;">motion blur</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans Inscriptional Pahlavi';-inkscape-font-specification:'Noto Sans Inscriptional Pahlavi';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="-40.758602"
        y="-197.31499"
        id="text1008"><tspan
@@ -191,6 +191,6 @@
          id="tspan1006"
          x="-40.758602"
          y="-197.31499"
-         style="stroke-width:0.26458332">shallow dof</tspan></text>
+         style="stroke-width:0.26458332;fill:#ffffff;">shallow dof</tspan></text>
   </g>
 </svg>
