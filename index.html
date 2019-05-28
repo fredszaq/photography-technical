@@ -28,6 +28,10 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 	border: none !important;
 	box-shadow: none !important;
 }
+
+.bbg {
+	background: #000000 !important;
+}
 		</style>
 	</head>
 	<body>
@@ -36,19 +40,19 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 				<section id="start">
 					<h1>Photography</h1>
 					<h2>The technical aspect</h2>
-					<a href="https://twitter.com/fredszaq">@fredszaq</a> - 25/04/2019
+					<a href="https://twitter.com/fredszaq">@fredszaq</a> - 30/05/2019
 				</section>
 				<section id="schedule">
 					<h3>Schedule</h3>
 					<ul>
-						<li class="fragment">What's a camera?</li>
+						<li class="fragment">Camera anatomy</li>
 						<li class="fragment">Camera settings</li>
 						<li class="fragment">Troubleshooting</li>
 					</ul>
 				</section>
 
-				<section id="what-is-a-camera">
-					<h2>What's a camera?</h2>
+				<section id="anatomy" data-background="img/camera_anatomy.jpg" >
+					<h2 class="bbg">Camera anatomy</h2>
 				</section>
 				<section id="camera-obscura">
 					<h3>Camera osbcura</h3>
@@ -82,8 +86,8 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 				<section data-transition="none"><h3>Taking a picture</h3><img src="img/camera_shutter2_down_mirror_down.svg" /></section>
 				<section data-transition="none-in slide-out"><h3>Taking a picture</h3><img src="img/camera_ready.svg" /></section>
 
-				<section id="settings">
-					<h2>Camera settings</h2>
+				<section id="settings" data-background="img/camera_settings.jpg">
+					<h2 class="bbg">Camera settings</h2>
 				</section>
 
 				<section id="focal">
@@ -94,6 +98,11 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 						<li class="fragment">mm</li>
 						<li class="fragment">8mm ⟶ 2000mm</li>
 					</ul>
+				</section>
+
+				<section id="zoom">
+					<h3>Focal length</h3>
+					<img src="img/zoom.svg" style="height:500px;" class="no-border" />
 				</section>
 
 				<section id="focal-length">
@@ -222,8 +231,8 @@ document.getElementsByTagName( 'head' )[0].appendChild( link );
 					
 				</section>
 
-				<section id="troubleshooting">
-					<h2>Troubleshooting</h2>
+				<section id="troubleshooting" data-background="img/troubleshooting.jpg">
+					<h2 class="bbg">Troubleshooting</h2>
 				</section>
 
 				<section id="blury">
