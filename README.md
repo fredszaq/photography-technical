@@ -1,6 +1,6 @@
 # Photography, the technical aspect
 
-A presentation on the technical aspects of photography based using [reveal.js](https://github.com/hakimel/reveal.js)
+A [presentation](https://fredszaq.github.io/photography-technical/) on the technical aspects of photography based on [reveal.js](https://github.com/hakimel/reveal.js)
 
 ## LICENSE
 
